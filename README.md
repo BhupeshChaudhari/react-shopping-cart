@@ -40,7 +40,7 @@ shopping-cart/
 
 ## Installation
 
-1.Clone the Repository
+1. Clone the Repository
 ```
 git clone https://github.com/yourusername/shopping-cart.git
 cd shopping-cart
@@ -56,8 +56,8 @@ npm start
 
 ## Usage
 
-- Home Page: View the list of products. Click "Add to Cart" to add items to the cart.
-- Cart Page: View items in the cart, total items, and total amount. Click "Remove Item" to remove items from the 
+- Home Page : View the list of products. Click "Add to Cart" to add items to the cart.
+- Cart Page : View items in the cart, total items, and total amount. Click "Remove Item" to remove items from the 
   cart. Click "Checkout Now" to proceed to checkout.
 
 ## Technologies Used
