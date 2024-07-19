@@ -42,7 +42,7 @@ shopping-cart/
 
 1. Clone the Repository
 ```
-git clone https://github.com/yourusername/shopping-cart.git
+git clone https://github.com/BhupeshChaudhari/react-shopping-cart.git
 cd shopping-cart
 ```
 2. Install Dependencies
