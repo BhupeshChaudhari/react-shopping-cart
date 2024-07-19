@@ -38,6 +38,13 @@ shopping-cart/
 ├── README.md
 ```
 
+## Technologies Used
+- React
+- Redux Toolkit
+- React Router
+- CSS (TailwindCSS for styling)
+- Fetch API for data fetching
+
 ## Installation
 
 1. Clone the Repository
@@ -60,10 +67,4 @@ npm start
 - Cart Page : View items in the cart, total items, and total amount. Click "Remove Item" to remove items from the 
   cart. Click "Checkout Now" to proceed to checkout.
 
-## Technologies Used
-- React
-- Redux Toolkit
-- React Router
-- CSS (TailwindCSS for styling)
-- Fetch API for data fetching
 
